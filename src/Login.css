@@ -1,0 +1,11 @@
+#basic-nav-dropdown .dropdown-toggle .nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: #f4511e;
+}
+
+.nav-link {
+    color: white;
+}
